@@ -17,8 +17,16 @@ class User:
         else:
             return intro + " I am a minor."
     
-user1 = User("Tomas", "London", 25)
-user2 = User("Alice", "New York", 15)
+name = input("Enter your name: ")
+city = input("Enter your city: ")
+try:
+    age = int(input("Enter your age:  "))
+except ValueError:
+    print("Invalid input for age. Please enter a number.")
+    age = 0
+    
+user = User(name, city, age)
 
-print(user1.introduce())
-print(user2.introduce())
+with open("users.txt", "a") as file:
+    file.write(user.introduce() + "\n")
+    print("User saved to users.txt successfully.")
