@@ -8,4 +8,4 @@
 - Tracks unique operations
 
 ## How to Run
-python calculator.py
+python main.py
