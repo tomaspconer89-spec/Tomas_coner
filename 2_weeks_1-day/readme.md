@@ -2,7 +2,7 @@
 
 ## Features
 - input users information
-- age notic and other intrduce print to file
+- age notic and other introduce print to file
 
 ## How to Run
 python main.py
