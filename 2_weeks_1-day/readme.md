@@ -1,5 +1,4 @@
-# Features
- File I/O
+# File I/O
 
 ## Features
 - input users information
