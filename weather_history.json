@@ -8,5 +8,25 @@
     "moscow",
     "& C:/Users/Tony/AppData/Local/Python/pythoncore-3.14-64/python.exe g:/My_Python_practice/week2_day5/week2_day5_weather_app.py",
     "& C:/Users/Tony/AppData/Local/Python/pythoncore-3.14-64/python.exe g:/My_Python_practice/week2_day5/week2_day5_weather_app.py",
-    "seul"
+    "seul",
+    {
+        "city": "Seoul",
+        "temperature": 10.76,
+        "condition": "haze"
+    },
+    {
+        "city": "Moscow",
+        "temperature": 3.52,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Moscow",
+        "temperature": 10.24,
+        "description": "overcast clouds"
+    },
+    {
+        "city": "Tachon",
+        "temperature": 4.01,
+        "description": "overcast clouds"
+    }
 ]
