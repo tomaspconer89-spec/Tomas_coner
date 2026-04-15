@@ -1,0 +1,30 @@
+# Console Chatbot with MEMORY_LIMIT
+
+A Python console chatbot built with the OpenAI API.
+
+## Futures
+
+-Multi-turn conversation
+-Limited memory
+-Streaming output
+-Personality modes
+-Chat history saved to JSON
+-Erro logging
+
+## Tech Stack
+-Python
+-OpenAI API
+-python-dotenv
+
+## Setup
+1. CLone the repo
+2. Install dependencies:
+    pip install openai python-dotenv
+3. Create a '.env' file:
+    OPEN_API_KEY=your_api_key
+4. Run:
+    python main.py
+
+## Notes
+- '.env' is ignored by Git
+- '__pycache__' and log files are not tracked

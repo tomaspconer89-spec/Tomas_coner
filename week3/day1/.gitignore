@@ -1,0 +1,6 @@
+.env
+__pycache__/
+error_log.txt
+*.pyc
+chatbot.log
+chat_history.json
