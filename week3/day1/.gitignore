@@ -2,5 +2,9 @@
 __pycache__/
 error_log.txt
 *.pyc
+<<<<<<< HEAD
 chatbot.log
 chat_history.json
+*.env
+=======
+>>>>>>> 2b56bf88bc2fe4ba5e9fac042cd1dc28f9a5d1e1

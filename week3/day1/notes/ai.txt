@@ -1,0 +1,3 @@
+AI stands for Artificial Intelligence.
+Machine learning is a subset of AI.
+Models learn from data.

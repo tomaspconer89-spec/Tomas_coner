@@ -11,6 +11,13 @@ A Python console chatbot built with the OpenAI API.
 -Chat history saved to JSON
 -Erro logging
 
+## Commands
+- q -> quit
+- reset -> clear memory
+- history -> show chat
+- change file -> switch notes
+- help -> show commands
+
 ## Tech Stack
 -Python
 -OpenAI API
